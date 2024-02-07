@@ -1,4 +1,5 @@
 # web-api-aws-connect
-How to setup AWS Connect application service with SSO user interface (UI) for AWS Connect PaaS service
+How to setup WEB API AWS Connect application with SSO user interface (UI) for AWS Connect PaaS service
 
-For full details how  to provide an end-to-end solution for identifying callers authenticated with the Identity provider and personalizing the web chat experience via a single-page application (SPA) hosting AWS Connect chat widget Javascript (JS) code, please read: https://www.securemfa.com/downloads/web-api-aws-connect 
+Integrating a Single Sign-On (SSO) enabled user interface (UI) for the AWS Connect PaaS service. It delivers an end-to-end solution for identifying authenticated callers with the Identity provider and personalizing the web chat or call experience via a single-page application (SPA) interface that contains the AWS Connect chat widget Javascript (JS) code. 
+For more details, please read: https://www.securemfa.com/downloads/web-api-aws-connect 
